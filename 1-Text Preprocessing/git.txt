@@ -1,0 +1,6 @@
+git clone link
+make changes
+git status(Will show the chnaging that have been made)
+git add -A(will add all of the files or you can add the specific file)
+git commit -m "First commit"
+git push(will push on github)
